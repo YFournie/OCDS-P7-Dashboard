@@ -1,0 +1,8 @@
+numpy==1.24.4
+pandas
+requests
+pickleshare
+shap==0.43.0
+plotly
+matplotlib
+seaborn
